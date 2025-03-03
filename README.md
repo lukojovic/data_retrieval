@@ -2,7 +2,7 @@
 
 
 
-TODO: Add you lecture description. 
+These are the hand-outs of the Master course Data Retrieval in Earth Observation (120.110) at the Technical University of Vienna.
 
 
 
