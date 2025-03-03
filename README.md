@@ -17,7 +17,7 @@ To re-create the environment as a Jupyter kernel for execution of the notebooks,
 make kernel
 ```
 
-Select the kernel with the equivalent name as the `.ipynb` notebook to execute the notebook. For example, `01_lecture.ipynb` requires the kernel `01_lecture` for execution of the code blocks.
+Select the kernel `dreo_environment` with the equivalent name as the `.ipynb` notebook to execute the notebook. For example, `01_lecture.ipynb` requires the kernel `01_lecture` for execution of the code blocks. 
 
 # Clean-up
 
