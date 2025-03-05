@@ -1,4 +1,4 @@
-name: dreo_environment
+name: dreo
 channels:
   - conda-forge
 dependencies:
@@ -22,3 +22,5 @@ dependencies:
     - ismn
     - pytesmo==0.17.0
     - fibgrid
+    - lxml
+    - flake8-nb
