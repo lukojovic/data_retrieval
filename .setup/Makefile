@@ -2,8 +2,8 @@
 SHELL = /bin/bash
 .PHONY: help
 
-GIT_ACCOUNT = luko_jovic
-REPO_NAME = data_retrieval
+GIT_ACCOUNT = TUW-GEO
+REPO_NAME = data-retrieval-eo
 GIT_BRANCH = main
 GIT_REPO = https://github.com/$(GIT_ACCOUNT)/$(REPO_NAME).git
 ROOT = ~/$(REPO_NAME)
