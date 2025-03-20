@@ -1,10 +1,6 @@
+# VU Data Retrieval in Earth Observation (120.110)
 
-
-
-
-These are the hand-outs of the Master course Data Retrieval in Earth Observation (120.110) at the Technical University of Vienna.
-
-
+These are the hand-outs of the Master course Data Retrieval in Earth Observation (120.110) at the TU Wien.
 
 # Generate Jupyter Conda environment and Jupyter Kernel from `yml`
 
@@ -17,7 +13,7 @@ To re-create the environment as a Jupyter kernel for execution of the notebooks,
 make kernel
 ```
 
-Select the kernel `dreo_environment`.
+Select the kernel `dreo-env`.
 
 # Clean-up
 
